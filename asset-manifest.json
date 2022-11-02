@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hulu-clone-axios-react/static/css/main.2c0ede71.css",
+    "main.js": "/hulu-clone-axios-react/static/js/main.c52d74c8.js",
+    "index.html": "/hulu-clone-axios-react/index.html",
+    "main.2c0ede71.css.map": "/hulu-clone-axios-react/static/css/main.2c0ede71.css.map",
+    "main.c52d74c8.js.map": "/hulu-clone-axios-react/static/js/main.c52d74c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c0ede71.css",
+    "static/js/main.c52d74c8.js"
+  ]
+}
